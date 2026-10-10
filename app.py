@@ -11,10 +11,8 @@ import html
 # =========================================================
 
 st.set_page_config(
-    page_title="Milk Tea POS - Quản lý bán hàng"
+    page_title="Milk Tea POS - Quản lý bán hàng","banner.png", use_container_width=True
 )
-st.image("banner.png", use_container_width=True
-        )
 
 # Bảng giá mẫu (VNĐ)
 DRINKS = {
