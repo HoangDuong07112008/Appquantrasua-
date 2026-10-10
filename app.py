@@ -12,9 +12,7 @@ import html
 
 st.set_page_config(
     page_title="Milk Tea POS - Quản lý bán hàng",
-    page_icon="🧋",
-    layout="wide",
-    initial_sidebar_state="expanded"
+    https://www.google.com/imgres?q=%E1%BA%A3nh%20b%C3%ACa%20tr%C3%A0%20s%E1%BB%AFa&imgurl=https%3A%2F%2Fvieprint.vn%2Fwp-content%2Fuploads%2F2023%2F05%2Fmau-sticker-tra-sua-dep-01.jpg&imgrefurl=https%3A%2F%2Fvieprint.vn%2Fmau-sticker-tra-sua%2F&docid=Q2uJmTnVRo60qM&tbnid=iCFiB29Ij2wLAM&vet=12ahUKEwijl6il26-XAxUvUGcHHbqbG3YQnPAOegQIOhAA..i&w=800&h=800&hcb=2&ved=2ahUKEwijl6il26-XAxUvUGcHHbqbG3YQnPAOegQIOhAA
 )
 
 # Bảng giá mẫu (VNĐ)
